@@ -4,7 +4,8 @@ description: Structure theological inquiry properly by beginning from revelation
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3854
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dogmatic-method
 - storytelling
